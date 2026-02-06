@@ -107,7 +107,8 @@ img {
 .nav-menu {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .nav-link {
@@ -327,6 +328,10 @@ img {
 
 .team-block {
   margin-bottom: 3rem;
+}
+
+.team-block.space-top {
+  margin-top: 1.5rem;
 }
 
 .team-block h3 {

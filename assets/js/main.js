@@ -16,7 +16,7 @@ const projectData = [
   {
     title: "Prestij Konutları",
     description:
-      "Prestij Konutları, geniş yeşil alanları ve akıllı ev teknolojileriyle üst segment yaşam sunar.",
+      "Prestij Konutları, geniş yeşil alanları, akıllı ev teknolojileri ve sosyal tesisleriyle üst segment yaşam sunar.",
     details: [
       { label: "Konum", value: "İstanbul" },
       { label: "Alan", value: "24.000 m²" },
@@ -26,7 +26,7 @@ const projectData = [
   {
     title: "Merkez Ofis Plaza",
     description:
-      "Merkez Ofis Plaza, kurumsal kiracılar için premium ofis katları ve ortak alanlar barındırır.",
+      "Merkez Ofis Plaza, kurumsal kiracılar için premium ofis katları, akıllı yönetim ve ortak alanlar barındırır.",
     details: [
       { label: "Konum", value: "Ankara" },
       { label: "Alan", value: "18.500 m²" },
@@ -36,7 +36,7 @@ const projectData = [
   {
     title: "Vadi Villaları",
     description:
-      "Vadi Villaları, özel peyzaj ve güvenlik konseptiyle sakinlerine ayrıcalıklı bir yaşam alanı sunar.",
+      "Vadi Villaları, özel peyzaj, güvenlik konsepti ve akıllı altyapısıyla sakinlerine ayrıcalıklı bir yaşam alanı sunar.",
     details: [
       { label: "Konum", value: "İzmir" },
       { label: "Alan", value: "12.000 m²" },
@@ -46,7 +46,7 @@ const projectData = [
   {
     title: "İnnovasyon Kampüsü",
     description:
-      "İnnovasyon Kampüsü, teknoloji firmalarına sürdürülebilir ve esnek çalışma alanları sağlar.",
+      "İnnovasyon Kampüsü, teknoloji firmalarına sürdürülebilir, esnek çalışma alanları ve enerji verimli altyapı sağlar.",
     details: [
       { label: "Konum", value: "Bursa" },
       { label: "Alan", value: "30.000 m²" },
@@ -56,7 +56,7 @@ const projectData = [
   {
     title: "Marina Rezidans",
     description:
-      "Marina Rezidans, deniz manzaralı daireleri ve premium sosyal tesisleriyle öne çıkar.",
+      "Marina Rezidans, deniz manzaralı daireleri, premium sosyal tesisleri ve concierge hizmetleriyle öne çıkar.",
     details: [
       { label: "Konum", value: "Antalya" },
       { label: "Alan", value: "15.500 m²" },
@@ -66,7 +66,7 @@ const projectData = [
   {
     title: "Endüstriyel Lojistik Merkezi",
     description:
-      "Endüstriyel Lojistik Merkezi, yüksek kapasiteli depo ve akıllı operasyon altyapısı sunar.",
+      "Endüstriyel Lojistik Merkezi, yüksek kapasiteli depo, akıllı operasyon ve güvenlik altyapısı sunar.",
     details: [
       { label: "Konum", value: "Kocaeli" },
       { label: "Alan", value: "40.000 m²" },
